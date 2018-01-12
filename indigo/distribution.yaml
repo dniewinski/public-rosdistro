@@ -39,7 +39,7 @@ repositories:
   firmware_components:
     doc:
       type: git
-      url: http://gitlab.clearpathrobotics.com/firmare/firmware_components.git
+      url: http://gitlab.clearpathrobotics.com/firmware/firmware_components.git
       version: master
     release:
       tags:
